@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Kinyua 👋
 
-![Banner Image]("C:\Users\HP\Downloads\portrait-man-cartoon-style.jpg")
+![Banner Image](portrait-man-cartoon-style.jpg)
 
 ## About Me 🚀
 
@@ -28,13 +28,8 @@ I'm a passionate cybersecurity enthusiast. I love tackling complex problems, lea
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Desk-top Weather App** is a **project designed to help users to get accurate weather info in real time ** built with **java**. This project demonstrates my ability to **use java**. You can check out the repository [here](https://github.com/bryank-4/desktop-weather-app.git).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
