@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Kinyua 👋
 
-![Banner Image](https://www.canva.com/design/DAGSgmvfnso/jnaeeDi3Jc1vNoLaof7nfw/edit?utm_content=DAGSgmvfnso&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner Image]("C:\Users\HP\Downloads\portrait-man-cartoon-style.jpg")
 
 ## About Me 🚀
 
