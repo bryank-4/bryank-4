@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Kinyua 👋
 
-![Image](images/megithub.jpg)
+![Image](images/GitHubanner.png)
 
 ## About Me 🚀
 
