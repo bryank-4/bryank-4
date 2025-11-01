@@ -23,12 +23,26 @@ I'm a passionate cybersecurity enthusiast. I love tackling complex problems, lea
 
 ## Featured Projects 💻
 
-### [Desk-top Weather APP](https://github.com/bryank-4/desktop-weather-app.git)
+## farmconnect
+Connecting Kenyan farmers directly with buyers for fairer prices and sustainable agriculture.
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### Homepage Screenshot
+![homepage Screenshot](images/homepage.png)
 
-**Desk-top Weather App** is a **project designed to help users to get accurate weather info in real time ** built with **java**. This project demonstrates my ability to **use java**. You can check out the repository [here](https://github.com/bryank-4/desktop-weather-app.git).
+### Marketplace Screenshot
+![marketplace Screenshot](images/marketplace.png)
 
+### Productmanagement Screenshot
+![productmanagement Screenshot](images/productmanagement.png)
+
+### Farmerdashboard Screenshot
+![farmerdashboard Screenshot](images/farmerdashboard.png)
+
+### Buyerdashboard Screenshot
+![buyerdashboard Screenshot](images/buyerdashboard.png)
+
+### Cart Screenshot
+![cart Screenshot](images/cart.png)
 
 ## Get in Touch 📬
 
