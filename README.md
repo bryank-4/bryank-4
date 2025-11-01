@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Kinyua 👋
 
-![Image](portrait-man-cartoon-style.jpg)
+![Image](images/megithub.jpg)
 
 ## About Me 🚀
 
